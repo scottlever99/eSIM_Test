@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.2.0  # Add this line
+  qr_flutter: ^4.1.0
+  url_launcher: ^6.2.5
+  esim_installer_flutter: ^1.2.1  # Add this
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
